@@ -1,5 +1,9 @@
 # Drum Kit ![Image of Badge](https://img.shields.io/badge/DrumKit-v1.0.0-blue)
 
+
+<img src="https://picresize.com/popup.html?images/rsz_1screen_shot_2020-11-16_at_14712_pm.jpg">
+
+
 ## Description
 
 First project out of 30. Fun and easy project learning the basics of vanilla JavaScript, a creative course imparted by [Wes Bos](https://github.com/wesbos).
