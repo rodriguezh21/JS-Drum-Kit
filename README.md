@@ -25,7 +25,7 @@ As a user, I want to be able to play drums with my keyboard!
 
 ## Installation
 
-If you'd like use the app just visit the deployed page [here](https://nameless-earth-07765.herokuapp.com/)  
+If you'd like use the app just visit the deployed page [here](https://rodriguezh21.github.io/js-drum-kit/)  
 
 
 ## Usage
