@@ -17,7 +17,6 @@ As a user, I want to be able to play drums with my keyboard!
 * [Technologies](#technologies)
 * [Future Development](#future%20development)
 * [Credits](#credits)
-* [License](#license)
 
 
 ## Installation
