@@ -1,7 +1,7 @@
 # Drum Kit ![Image of Badge](https://img.shields.io/badge/DrumKit-v1.0.0-blue)
 
 
-<img src="https://picresize.com/popup.html?images/rsz_1screen_shot_2020-11-16_at_14712_pm.jpg">
+![ScreenShot](/content/ScreenShot.png)
 
 
 ## Description
